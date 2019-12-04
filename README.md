@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages   
-不知道这是谁给你的小礼物         
-<video src="https://github.com/renchuqiao/gift/blob/master/videos/1575443352281925.mp4" width="320" height="200" controls preload></video>      
-和这个呢！     
-{% include vimeoPlayer.html %}
+---
+vimeoId1: 377248314
+vimeoId2: 377248767 
+---
+## 送给静静的小礼物
+西雅图有几个人似乎想着一个叫静静的小姑娘？     
+### 第一位：Queen of Seattle
+{% include vimeoPlayer.html id=page.vimeoId1 %}
+### 第二位：亚麻小王子和小公举
+{% include vimeoPlayer.html id=page.vimeoId2 %}
