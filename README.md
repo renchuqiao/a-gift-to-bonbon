@@ -6,4 +6,9 @@
 {% include vimeoPlayer2.html %}
 
 似乎好像远在东亚的人们也想着这位叫静静的小姑娘？
+### 第三位：上海小王子
+{% include vimeoPlayer3.html %}
+
+祝我的小仙女26岁生日快乐，永远开心么么哒
+
 
