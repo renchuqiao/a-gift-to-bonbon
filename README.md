@@ -10,6 +10,9 @@
 ### 第三位：上海小王子
 {% include vimeoPlayer3.html %}
 
+### 第四位：日本最帅的男人
+{% include vimeoPlayer5.html %}
+
 祝我的小仙女26岁生日快乐，永远开心么么哒
 
 __结尾彩蛋__     
